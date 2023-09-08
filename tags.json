@@ -5,7 +5,8 @@
       "nightly-2.0.0.250",
       "nightly-9a46e7f"
     ],
-    "last_updated": "2023-09-07T18:34:29.274Z",
-    "latest": "true"
+    "last_updated": "2023-09-08T05:23:25.095Z",
+    "latest": true,
+    "description": "nightly"
   }
 }
