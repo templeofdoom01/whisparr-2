@@ -8,5 +8,16 @@
       "nightly-2.0.0.355",
       "nightly-1c3f515"
     ]
+  },
+  "v3": {
+    "description": "eros",
+    "last_updated": "2024-02-08T07:06:31.000Z",
+    "last_updated_url": "https://github.com/hotio/whisparr/actions/runs/7793380643",
+    "latest": false,
+    "tags": [
+      "v3",
+      "v3-3.0.0.430",
+      "v3-b021163"
+    ]
   }
 }
