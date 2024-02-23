@@ -2,13 +2,13 @@
   "nightly": {
     "description": "nightly",
     "hide": false,
-    "last_updated": "2024-02-22T10:54:37.000Z",
-    "last_updated_url": "https://github.com/hotio/whisparr/actions/runs/8003184165",
+    "last_updated": "2024-02-23T06:37:44.000Z",
+    "last_updated_url": "https://github.com/hotio/whisparr/actions/runs/8015514574",
     "latest": true,
     "tags": [
       "nightly",
       "nightly-2.0.0.355",
-      "nightly-d5a6414"
+      "nightly-63f9a3f"
     ]
   },
   "v3": {
