@@ -14,13 +14,13 @@
   "v3": {
     "description": "eros",
     "hide": true,
-    "last_updated": "2024-11-24T17:40:32.000Z",
-    "last_updated_url": "https://github.com/hotio/whisparr/actions/runs/11998225518",
+    "last_updated": "2024-11-24T18:38:51.000Z",
+    "last_updated_url": "https://github.com/hotio/whisparr/actions/runs/11998605296",
     "latest": false,
     "tags": [
       "v3",
-      "v3-3.0.0.740",
-      "v3-1721db2"
+      "v3-3.0.0.741",
+      "v3-d96fd8b"
     ]
   }
 }
