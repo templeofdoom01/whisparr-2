@@ -11,6 +11,18 @@
       "nightly-04cd41f"
     ]
   },
+  "pr-sonarr-pull-e17655c2": {
+    "description": "",
+    "hide": true,
+    "last_updated": "2025-02-18T21:13:27.000Z",
+    "last_updated_url": "https://github.com/hotio/whisparr/actions/runs/13400113291",
+    "latest": false,
+    "tags": [
+      "pr-sonarr-pull-e17655c2",
+      "pr-sonarr-pull-e17655c2-2.0.0.797",
+      "pr-sonarr-pull-e17655c2-a0d610a"
+    ]
+  },
   "v3": {
     "description": "eros",
     "hide": false,
