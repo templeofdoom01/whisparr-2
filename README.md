@@ -2,7 +2,7 @@
 
 All our documentation is located at [hotio.dev](https://hotio.dev).
 
-# Support
+# Supportalas
 
 If you need some assistance, please join our [discord](https://hotio.dev/discord) server.
 
